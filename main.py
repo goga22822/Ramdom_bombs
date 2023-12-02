@@ -81,7 +81,7 @@ def animation():
     pass
 
 
-ROWS = 200
+ROWS = 170
 COLS = ROWS
 CELL_SIZE = 5
 MARGIN = 0
